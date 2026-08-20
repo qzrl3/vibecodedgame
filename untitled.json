@@ -1,35 +1,25 @@
 {
-  "name": "NType82",
-  "entries": [
-    {
-      "postscriptName": "ggsans-Regular",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Regular"
-    },
-    {
-      "postscriptName": "ggsans-Medium",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Medium"
-    },
-    {
-      "postscriptName": "ggsans-Bold",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Bold"
-    },
-    {
-      "postscriptName": "Whitney",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Regular"
-    },
-    {
-      "postscriptName": "Whitney-Medium",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Medium"
-    },
-    {
-      "postscriptName": "Whitney-Bold",
-      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": "Bold"
+    "spec": 1,
+    "name": "NType82",
+    "previewText": "NType82 is a modern geometric sans-serif typeface inspired by the Nothing brand identity, featuring clean lines and a distinctive mechanical aesthetic",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-Bold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-BoldItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-ExtraBold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-ExtraBoldItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-Medium": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-MediumItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-Normal": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-NormalItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-Semibold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggsans-SemiboldItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-Bold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-ExtraBold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-Medium": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-Normal": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-NormalItalic": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "NotoSans-Semibold": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+        "ggmono-Normal": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82Mono-Regular.otf"
     }
-  ]
 }
