@@ -4,32 +4,32 @@
     {
       "postscriptName": "ggsans-Regular",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 0
+      "spec": "Regular"
     },
     {
       "postscriptName": "ggsans-Medium",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 1
+      "spec": "Medium"
     },
     {
       "postscriptName": "ggsans-Bold",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 2
+      "spec": "Bold"
     },
     {
       "postscriptName": "Whitney",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 0
+      "spec": "Regular"
     },
     {
       "postscriptName": "Whitney-Medium",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 1
+      "spec": "Medium"
     },
     {
       "postscriptName": "Whitney-Bold",
       "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
-      "spec": 2
+      "spec": "Bold"
     }
   ]
 }
