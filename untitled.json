@@ -1,11 +1,35 @@
 {
   "name": "NType82",
   "entries": [
-    { "postscriptName": "ggsans-Regular", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" },
-    { "postscriptName": "ggsans-Medium", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" },
-    { "postscriptName": "ggsans-Bold", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" },
-    { "postscriptName": "Whitney", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" },
-    { "postscriptName": "Whitney-Medium", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" },
-    { "postscriptName": "Whitney-Bold", "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf" }
+    {
+      "postscriptName": "ggsans-Regular",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 0
+    },
+    {
+      "postscriptName": "ggsans-Medium",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 1
+    },
+    {
+      "postscriptName": "ggsans-Bold",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 2
+    },
+    {
+      "postscriptName": "Whitney",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 0
+    },
+    {
+      "postscriptName": "Whitney-Medium",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 1
+    },
+    {
+      "postscriptName": "Whitney-Bold",
+      "url": "https://cdn.shopify.com/s/files/1/0376/5420/0459/t/33/assets/NType82-Regular.otf",
+      "spec": 2
+    }
   ]
 }
